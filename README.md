@@ -1,2 +1,3 @@
-# odinrecipes
-The Odin Project Recipes Website 
+Welcome to my first ever HTML project!
+
+I followed the Odin Project to create this recepies website. 
